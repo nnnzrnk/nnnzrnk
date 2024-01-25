@@ -1,3 +1,4 @@
+![alt text](https://github.com/nnnzrnk/nnnzrnk/blob/main/cover.jpg?raw=true)
 ### Hi there 👋
 
 <!--
