@@ -6,7 +6,7 @@
 
 Proficient in managing over 50 tables per weekday as a waitress and assisting more than 60 customers daily as a pharmacist in a fast-paced environment.
 
-My interest in technology pushed me to change my career and now my goal is to broaden my knowledge and skills in Front-end development to create high-quality and user-centered applications.
+My interest in technology prompted me to change my career, and now my goal is to broaden my knowledge and skills in Front-end development to create high-quality and user-centered applications.
 ___
 
 ### Want to know more? 
