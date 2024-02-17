@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/nnnzrnk/nnnzrnk/blob/main/cover.jpg?raw=true)
 
-## Hey! I'm Anna, a certified Full-Stack Developer👋👩‍💻
+## Hey! I'm Anna, a certified Full-Stack Developer with a passion for Front-end👋👩‍💻
 
 Proficient in managing over 50 tables per weekday as a waitress and assisting more than 60 customers daily as a pharmacist in a fast-paced environment.
 
